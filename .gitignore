@@ -1,4 +1,5 @@
-HELP.md
+# Created by .ignore support plugin
+
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
